@@ -1,5 +1,6 @@
 # Design-Pattern
-Design Pattern assignment that implements seven types of design patterns
+Design Pattern assignment that implements seven types of design patterns:
+
 -Factory
 -Composite
 -Bridge
